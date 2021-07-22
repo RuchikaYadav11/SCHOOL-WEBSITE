@@ -1,0 +1,17 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+#marqueeStyle{
+    width: 100%;
+    height: 100px;
+    direction: right;
+    color: beige;
+    font-size: 120%;
+}
+.announcement{
+    background-color: deepskyblue;
+    width: 100%;
+    height: 30px;
+}
